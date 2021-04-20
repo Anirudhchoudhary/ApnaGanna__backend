@@ -1,0 +1,12 @@
+.dbdata
+musicplayer/settings/base.py
+musicplayer/settings/local.py
+musicplayer/settings/.env
+media
+.vscode
+sound/migrations
+accounts/migrations
+static
+staticfiles
+db.sqlite3
+docker-compose.yml
